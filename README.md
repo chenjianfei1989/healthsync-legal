@@ -11,8 +11,8 @@
 2. 上传这两个文件到仓库根目录
 3. 仓库设置中开启 Pages（`Deploy from a branch`，`main` 分支 `/root`）
 4. 等待 1-2 分钟后可访问：
-   - `https://<你的用户名>.github.io/healthsync-legal-pages/privacy.html`
-   - `https://<你的用户名>.github.io/healthsync-legal-pages/terms.html`
+   - `https://<你的用户名>.github.io/healthsync-legal/privacy.html`
+   - `https://<你的用户名>.github.io/healthsync-legal/terms.html`
 
 ## 方案二：Gitee Pages
 
